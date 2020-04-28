@@ -1,0 +1,13 @@
+{
+  "name"        : "30_days_of_code",
+  "version"     : "1.0.0",
+  "description" : "Hacker Rank 30 Days of Code",
+  "keywords"    : [
+    "HackerRank"
+  ],
+  "author"      : "Emma Colorado",
+  "license"     : "ISC",
+  "dependencies": {
+    "readline"  : "^1.3.0"
+  }
+}
