@@ -25,4 +25,4 @@
 * [Day 24 More Linked Lists (NodeJS)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/NodeJS/Day%2024%20More%20Linked%20Lists)
 * [Day 25 Running Time and Complexity (C#)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/C%23/Day%2025)
 * [Day 26 Nested Logic (NodeJS)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/NodeJS/Day%2026%20Nested%20Logic)
-* [Day 27 Testing (Java)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/Java/Day%2027%20Testing)
+* [Day 27 Testing (Java)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/java/Day%2027%20Testing)
