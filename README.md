@@ -23,4 +23,4 @@
 * [Day 22 Binary Search Data (NodeJS)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/NodeJS/Day%2022%20Binary%20Search%20Data)
 * [Day 23 BST Level-Order Traversal (NodeJS)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/NodeJS/Day%2023%20BST%20Level-Order%20Traversal)
 * [Day 24 More Linked Lists (NodeJS)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/NodeJS/Day%2024%20More%20Linked%20Lists)
-* [Day 25 Running Time and Complexity (C#)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/NodeJS/Day%2025)
+* [Day 25 Running Time and Complexity (C#)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/C%23/Day%2025)
