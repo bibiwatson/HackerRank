@@ -4,7 +4,7 @@
 	<a href="https://www.hackerrank.com/emma_colorado">My Profile</a>
 </p>
 
-## 30 Days of Code Solutions
+## 30 Days of Code
 
 [Challenges](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
@@ -35,3 +35,4 @@
 
 * [Day 0 Hello, World!](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%200%20Hello%2C%20World!/solution.js)
 * [Day 0 Data Types](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%200%20Data%20Types/solution.js)
+* [Day 1 Arithmethic Operators](https://github.com/bibiwatson/HackerRank-Solutions/tree/master/10%20Days%20of%20Javascript/Day%201%20Arithmethic%20Operators)
