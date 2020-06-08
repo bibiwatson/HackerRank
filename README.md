@@ -34,3 +34,4 @@
 [Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 * [Day 0 Hello, World!](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%200%20Hello%2C%20World!/solution.js)
+* [Day 0 Data Types](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%200%20Data%20Types/solution.js)
