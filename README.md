@@ -28,3 +28,9 @@
 * [Day 27 Testing (Java)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/tree/master/30%20Days%20of%20Code/java/Day%2027%20Testing)
 * [Day 28 RegEx, Patterns, and Intro to Databases (NodeJS)](https://github.com/bibiwatson/HackerRank-30DaysOfCode/blob/master/30%20Days%20of%20Code/NodeJS/Day%2028%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/solution.js)
 * [Day 29 Bitwise AND (NodeJS)](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/30%20Days%20of%20Code/NodeJS/Day%2029%20Bitwise%20AND/solution.js)
+
+## 10 Days of Javascript
+
+[Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+
+* [Day 0 Hello, World!](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%200%20Hello%2C%20World!/solution.js)
