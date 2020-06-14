@@ -36,3 +36,5 @@
 * [Day 0 Hello, World!](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%200%20Hello%2C%20World!/solution.js)
 * [Day 0 Data Types](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%200%20Data%20Types/solution.js)
 * [Day 1 Arithmethic Operators](https://github.com/bibiwatson/HackerRank-Solutions/tree/master/10%20Days%20of%20Javascript/Day%201%20Arithmethic%20Operators)
+* [Day 1 Functions](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%201%20Functions/solution.js)
+* [Day 1 Let and Const](https://github.com/bibiwatson/HackerRank-Solutions/tree/master/10%20Days%20of%20Javascript/Day%201%20Let%20and%20Const)
