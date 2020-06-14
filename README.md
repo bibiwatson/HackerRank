@@ -38,3 +38,6 @@
 * [Day 1 Arithmethic Operators](https://github.com/bibiwatson/HackerRank-Solutions/tree/master/10%20Days%20of%20Javascript/Day%201%20Arithmethic%20Operators)
 * [Day 1 Functions](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%201%20Functions/solution.js)
 * [Day 1 Let and Const](https://github.com/bibiwatson/HackerRank-Solutions/tree/master/10%20Days%20of%20Javascript/Day%201%20Let%20and%20Const)
+* [Day 2 Conditional Statements If-Else](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%202%20Conditional%20Statements%20If-Else/solution.js)
+* [Day 2 Conditional Statements Switch](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%202%20Conditional%20Statements%20Switch/solution.js)
+* [Day 2 Loops](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%202%20Loops/solution.js)
