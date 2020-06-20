@@ -44,3 +44,6 @@
 * [Day 3 Arrays](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%203%20Arrays/solution.js)
 * [Day 3 Try, Catch, and Finally](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%203%20Try%2C%20Catch%2C%20and%20Finally/solution.js)
 * [Day 3 Throw](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%203%20Throw/solution.js)
+* [Day 4 Create a Rectangle Object](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%204%20Create%20a%20Rectangle%20Object/solution.js)
+* [Day 4 Count Objects](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%204%20Count%20Objects/solution.js)
+* [Day 4 Classes](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%204%20Classes/solution.js)
