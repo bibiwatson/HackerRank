@@ -47,3 +47,6 @@
 * [Day 4 Create a Rectangle Object](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%204%20Create%20a%20Rectangle%20Object/solution.js)
 * [Day 4 Count Objects](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%204%20Count%20Objects/solution.js)
 * [Day 4 Classes](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%204%20Classes/solution.js)
+* [Day 5 Inheritance](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%205%20Inheritance/solution.js)
+* [Day 5 Template Literals](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%205%20Template%20Literals/solution.js)
+* [Day 5 Arrow Functions](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%205%20Arrow%20Functions/solution.js)
