@@ -41,3 +41,6 @@
 * [Day 2 Conditional Statements If-Else](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%202%20Conditional%20Statements%20If-Else/solution.js)
 * [Day 2 Conditional Statements Switch](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%202%20Conditional%20Statements%20Switch/solution.js)
 * [Day 2 Loops](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%202%20Loops/solution.js)
+* [Day 3 Arrays](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%203%20Arrays/solution.js)
+* [Day 3 Try, Catch, and Finally](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%203%20Try%2C%20Catch%2C%20and%20Finally/solution.js)
+* [Day 3 Throw](https://github.com/bibiwatson/HackerRank-Solutions/blob/master/10%20Days%20of%20Javascript/Day%203%20Throw/solution.js)
